@@ -1,0 +1,11 @@
+ip a
+cd
+ll
+pwd
+touch
+rm -f*
+rm-f
+cat>file
+init 0
+rm
+cat file
